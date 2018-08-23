@@ -1,4 +1,4 @@
-![Output of DjangoWeb Project!](https://github.com/itsmanu4u/DjangoWeb/blob/master/XtractIT.png)
+![XtractIT V.2!](https://github.com/itsmanu4u/XtractIT/blob/master/XtractIT.png)
 
 ===================================
 	# XtractIT (V.2)
