@@ -5,7 +5,7 @@
 
 # You can Edit/Modify this simple Python script, even without asking. However, it’s always a good gesture to give credit where it’s due.
 
-# Feel Free to Write back(mohan.2kit@gmail.com), I would be waiting for your valuable suggestions, Good or Bad :)
+# Feel Free to Write back(techmanu.it@gmail.com), I would be waiting for your valuable suggestions, Good or Bad :)
 
 ===================================
 
